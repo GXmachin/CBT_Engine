@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>radio_checked.png</file>
+        <file>radio_unchecked.png</file>
+        <file>radio_checked2.png</file>
+        <file>radio_checked3.png</file>
+        <file>button.png</file>
+        <file>Button_Hover.png</file>
+        <file>Button_Press.png</file>
+        <file>Button_Main.png</file>
+        <file>RevisionKit_icon.png</file>
+        <file>revisionKit_screenShot.png</file>
+    </qresource>
+    <qresource prefix="/styles">
+        <file>iclass_style.css</file>
+    </qresource>
+</RCC>
